@@ -16,3 +16,7 @@ Line 164 might be tricky, you can replace 250002 by a device id of your own.
 Specify your AppResponse server's port at the very last line of the script .
 Specify your AppResponse server's adresse at line 17.
 Specify your USERNAME and PASSWORD line 18 and 19.
+
+
+
+CRINON Nicolas ncrinon@mgen.fr
