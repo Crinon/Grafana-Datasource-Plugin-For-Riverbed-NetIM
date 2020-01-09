@@ -1,3 +1,5 @@
+# WARNING : A new plugin has been released, the new one does not require any Python server 
+
 # Grafana-Datasource-Plugin-For-Riverbed-NetIM
   This datasource plugin allows Grafana to submit requests to Riverbed SteelCentral NetIM.
   Use Python Flask environnement server to run the Python script.
